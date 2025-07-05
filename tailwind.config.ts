@@ -19,7 +19,7 @@ export default {
 		},
 		extend: {
       fontFamily: {
-        sans: ['Vazirmatn', 'sans-serif'],
+        sans: ['Dana', 'sans-serif'],
       },
 			colors: {
 				border: 'hsl(var(--border))',
