@@ -41,7 +41,6 @@ const graphicProjects = [
 ];
 
 const Portfolio = () => {
-  const [selectedGraphic, setSelectedGraphic] = useState(null as null | { img: string; title: string });
   const [showAllGraphics, setShowAllGraphics] = useState(false);
 
   return (

@@ -9,7 +9,6 @@ const nextConfig: NextConfig = {
     minimumCacheTTL: 31536000, // 1 year
   },
   experimental: {
-    optimizeCss: true,
     optimizePackageImports: ['lucide-react', '@radix-ui/react-icons'],
   },
   compiler: {
