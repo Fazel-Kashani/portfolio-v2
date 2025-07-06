@@ -47,7 +47,7 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.6 }}
         >
-          گرافیست و طراح وب، کنجکاور و مشتاق یادگیری
+          گرافیست و طراح وب، کنجکاو و مشتاق یادگیری
         </motion.p>
       </motion.div>
 
